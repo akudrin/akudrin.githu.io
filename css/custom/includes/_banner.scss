@@ -1,0 +1,15 @@
+#banner{
+  
+    background: url('/img/bg_image.png');
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    
+
+    .primary-overlay{
+      position: absolute;
+      margin-top: 100px;
+      width: 100%;
+      height: 100%;
+    }
+  }
