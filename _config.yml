@@ -17,3 +17,5 @@ twitter_username: TwitterUser
 
 plugins: 
   - jekyll-seo-tag
+  - jekyll-paginate
+paginate: 3

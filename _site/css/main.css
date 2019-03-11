@@ -6516,3 +6516,11 @@ a.text-dark:hover, a.text-dark:focus {
   .social-links a:hover {
     color: #7f7f7f;
     cursor: pointer; }
+
+#posts a {
+  text-decoration: none; }
+  #posts a:hover {
+    color: #7f7f7f; }
+
+#pager a.btn.disabled {
+  color: lightgray; }
