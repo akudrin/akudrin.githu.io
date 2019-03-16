@@ -36,5 +36,54 @@ A code section without any header
 {% endhighlight %}
 </div>
 
+
+<p>Use <kbd>ctrl + p</kbd> to open the Print dialog box.</p>
+
+<dl>
+    <dt>Coffee</dt>
+    <dd>- black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>- white cold drink</dd>
+  </dl>  
+
+<blockquote class="blockquote">
+    <p>For 50 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.</p>
+    <footer class="blockquote-footer">From WWF's website</footer>
+  </blockquote>
+
+  <p>Use the mark element to <mark>highlight</mark> text.</p>
+
+  <p>Use the .text-decoration-none class to remove the underline from a link.</p>
+  <a href="#" class="text-decoration-none">A link without underline.</a>
+
+<p>The .table-hover class enables a hover state (grey background on mouse over) on table rows:</p>            
+  <table class="table table-bordered table-hover">
+    <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>John</td>
+        <td>Doe</td>
+        <td>john@example.com</td>
+      </tr>
+      <tr>
+        <td>Mary</td>
+        <td>Moe</td>
+        <td>mary@example.com</td>
+      </tr>
+      <tr>
+        <td>July</td>
+        <td>Dooley</td>
+        <td>july@example.com</td>
+      </tr>
+    </tbody>
+  </table>
+  
+
 An image
 <img src="https://jekyllrb.com/img/logo-2x.png" class="img-fluid"/>
